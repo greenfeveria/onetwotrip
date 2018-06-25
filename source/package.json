@@ -1,0 +1,17 @@
+{
+  "name": "first-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vladykhn",
+  "license": "ISC"
+}
